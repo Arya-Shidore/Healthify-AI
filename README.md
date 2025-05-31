@@ -58,6 +58,7 @@ npm install
 
 ```shell
 npm run dev
+npm convex dev
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
@@ -81,13 +82,3 @@ Or connect your GitHub repository to Vercel for automatic deployments.
 - **Vapi**: Voice agent platform for conversational AI
 - **Convex**: Real-time database
 - **Gemini AI**: Large Language Model for generating personalized fitness programs
-
-## Learn More
-
-To learn more about the technologies used in this project:
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Clerk Documentation](https://clerk.com/docs)
-- [Vapi Documentation](https://docs.vapi.ai)
-- [Convex Documentation](https://docs.convex.dev)
-- [Gemini AI Documentation](https://ai.google.dev/gemini-api)
